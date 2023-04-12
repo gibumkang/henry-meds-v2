@@ -1,7 +1,7 @@
 ### Instructions
 
 1. Git clone this repository.
-2. `cd` and `yarn` to install dependencies
+2. Once clone, `yarn` to install dependencies.
 3. Run `yarn dev` in order to launch the application.
 
 ### Details
